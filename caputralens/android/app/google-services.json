@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49407447823",
+    "project_id": "caputralens",
+    "storage_bucket": "caputralens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49407447823:android:ec65d7d31d281982df647a",
+        "android_client_info": {
+          "package_name": "com.example.caputralens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu7oKMoeAtfPv3eus7JUovvoc7cpvO9KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
